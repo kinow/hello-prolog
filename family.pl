@@ -1,3 +1,4 @@
+% Example of backtracking
 
 male(jerry).
 male(stuart).
